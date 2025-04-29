@@ -1,7 +1,5 @@
 # TaskMaster Pro - Task Management Application
 
-![TaskMaster Pro](https://i.imgur.com/XYZ123.png)
-
 A professional full-stack task management application built with Next.js, React, and Supabase. This application allows users to manage their tasks efficiently with features like task creation, status tracking, priority management, and analytics.
 
 ## Features
@@ -165,14 +163,3 @@ The application includes custom hooks for better code organization and reusabili
 - Server-side validation of user permissions
 - Protected routes for authenticated users only
 
-## Future Enhancements
-
-- Task categories and tags
-- Team collaboration features
-- Due dates and reminders
-- File attachments for tasks
-- Mobile app version
-
-## License
-
-MIT
